@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+}
+
+.btn {
+    display: inline-block;
+    min-width: 160px;
+    margin: 24px auto 0 auto;
+    padding: 16px;
+    border-radius: 5px;
+    font-size: 18px;
+    text-align: center;
+    text-decoration: none;;
+    background-position: 100% 0;
+    background-size: 300%;
+    color: white;
+    background-color: yellow;
+    }
+
+h2 {
+    font-size: 25px;
+    text-align: center;
+}
+i {
+    font-size: 60px;
+    color: yellow;
+    background-color: white;
+    height: 60px;
+    Width: 60px;
+    border-radius: 50%;
+    border-color: yellow;
+    border-style: solid;
+    text-align: center;
+}
+i {
+    font-size: 60px;
+    color: white;
+    background-color: black;
+    height: 60px;
+    Width: 60px;
+    border-radius: 50%;
+    text-align: center;
+}
