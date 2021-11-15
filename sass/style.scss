@@ -25,6 +25,19 @@ body {
   transform: translate(-50%, -50%); 
   color: white;
 }
+.navigation {
+  display: inline-flex;
+  justify-content: space-around;
+  color: white;
+  align-items: flex-start;
+}
+.blank {
+  display: none;
+}
+.logo {
+  color: gold;
+  font-style: italic;
+}
 
 .btn {
   display: inline-block;
@@ -69,6 +82,7 @@ i {
   border-color: yellow;
   border-style: solid;
   text-align: center;
+  padding-top: 15px;
 }
 .footer {
   max-width: 1140px;
